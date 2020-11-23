@@ -1,0 +1,13 @@
+C:\Coding\C#\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopment.exe
+C:\Coding\C#\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopment.deps.json
+C:\Coding\C#\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopment.runtimeconfig.json
+C:\Coding\C#\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopment.runtimeconfig.dev.json
+C:\Coding\C#\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopment.dll
+C:\Coding\C#\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\TestDrivenDevelopment.pdb
+C:\Coding\C#\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopment.csprojAssemblyReference.cache
+C:\Coding\C#\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopment.AssemblyInfoInputs.cache
+C:\Coding\C#\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopment.AssemblyInfo.cs
+C:\Coding\C#\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Coding\C#\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopment.dll
+C:\Coding\C#\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopment.pdb
+C:\Coding\C#\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\TestDrivenDevelopment.genruntimeconfig.cache
